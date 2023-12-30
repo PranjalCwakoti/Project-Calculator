@@ -1,0 +1,37 @@
+
+.container{
+    height: 534px;
+    width: 300px;
+    margin: auto;
+    position: fixed;
+    top:69px;
+    left: 500px;
+    
+    border:1px solid black;
+    border-radius: 30px;
+    background-color: black;
+
+}
+.container1{
+    padding: 20px;
+    position: relative;
+    top: 5px;
+    
+}
+button{
+    border: 1px solid rgb(240, 161, 16);
+    background-color: rgb(240, 161, 16);
+    color:white;
+    width: 65px;
+    height: 60px;
+    border-radius: 50%;
+    margin: 3px 9px;
+    cursor: pointer;
+}
+input{
+    width: 250px;
+    height: 80px;
+    font-size: 40px;
+    ;
+   
+}
